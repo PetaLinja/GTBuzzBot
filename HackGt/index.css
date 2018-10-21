@@ -1,34 +1,35 @@
-.jumbotron {
-  height: 20px;
-}
-
 .banner-jumbotron {
-  height: auto;
   width: 15%;
-  flex: 30%;
   padding: 15px;
   float: left;
 }
 
-#bannerBg {
-  height: 110px;
+.bannerBg {
+  height: 100px;
   width: 100%;
-  background-color: black;
+  background-color: #262626;
 }
 
 .hackGT {
-  width: auto;
-  height: 94%;
   float: right;
-  padding: 2px;
-  margin: 10px;
+  width: 10%;
 }
 
 .centerTitle {
   text-align: center;
+  color: #b4a465;
 }
 
-.myCarousel {
-  float: left;
-  width: 50%;
+#myCarousel {
+  width: 60%;
+  height: 90%;
+  margin: auto;
+}
+
+.chat-body {
+  height: 355px;
+}
+
+.frame {
+  margin: 100px;
 }
