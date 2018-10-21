@@ -1,0 +1,34 @@
+.jumbotron {
+  height: 20px;
+}
+
+.banner-jumbotron {
+  height: auto;
+  width: 15%;
+  flex: 30%;
+  padding: 15px;
+  float: left;
+}
+
+#bannerBg {
+  height: 110px;
+  width: 100%;
+  background-color: black;
+}
+
+.hackGT {
+  width: auto;
+  height: 94%;
+  float: right;
+  padding: 2px;
+  margin: 10px;
+}
+
+.centerTitle {
+  text-align: center;
+}
+
+.myCarousel {
+  float: left;
+  width: 50%;
+}
